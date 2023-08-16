@@ -6,3 +6,16 @@
     background-color: aqua;
     font-size: x-large;
 }
+.header{
+    background-color: black;
+    color: white;
+    height: 20%;
+    width: 100%;
+}
+.footer{
+    background-color: rgb(154, 154, 154);
+    color: black;
+    height: 50%;
+    width: 100%;
+    border-style: ridge;
+}
